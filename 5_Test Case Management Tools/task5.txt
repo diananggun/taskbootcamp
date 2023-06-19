@@ -1,0 +1,4 @@
+1. Implementasikan Test Case Management Tools untuk REST API Todoist.com
+2. Implementasikan minimal 2 resource API (ex: Project, Task, Comment, Labels).
+3. Setiap Resource minimal implement 4 method.
+4. Setiap Method implement positif dan negatif case.
