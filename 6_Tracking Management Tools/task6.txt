@@ -1,0 +1,41 @@
+1. Apa yang dimaksud dengan Bugs?
+Jawaban :
+Bugs adalah kesalahan, kecacatan, atau masalah dalam perangkat lunak yang menyebabkan perangkat lunak tidak beroperasi sesuai dengan yang diharapkan atau menghasilkan hasil yang tidak diinginkan. Bugs dapat muncul dalam berbagai bentuk, termasuk kesalahan fungsionalitas, kesalahan logika, kegagalan sistem, kesalahan tampilan, masalah keamanan, dan lain sebagainya.
+
+2. Apa yang dimaksud dengan "TO DO" pada Jira?
+Jawaban :
+"TO DO" pada Jira adalah salah satu status yang digunakan dalam manajemen tugas atau proyek di platform Jira. Status "TO DO" menunjukkan bahwa sebuah tugas atau isu belum dikerjakan dan masih dalam tahap perencanaan atau menunggu untuk ditindaklanjuti.
+Ketika sebuah tugas atau isu ditetapkan dengan status "TO DO" di Jira, ini mengindikasikan bahwa tugas tersebut masih harus dikerjakan oleh anggota tim yang bertanggung jawab. Biasanya, tugas dengan status "TO DO" akan berada dalam daftar tugas yang belum dikerjakan atau daftar tugas yang harus diselesaikan.
+
+3. Apa yang dimaksud dengan IN PROGRESS" pada Jira?
+Jawaban :
+"IN PROGRESS" pada Jira adalah salah satu status yang digunakan dalam manajemen tugas atau proyek di platform Jira. Status "IN PROGRESS" menunjukkan bahwa sebuah tugas atau isu sedang dalam proses pengerjaan oleh anggota tim yang bertanggung jawab.
+Ketika sebuah tugas atau isu ditetapkan dengan status "IN PROGRESS" di Jira, ini mengindikasikan bahwa anggota tim telah memulai pengerjaan tugas tersebut dan sedang aktif melaksanakan pekerjaan yang terkait. Biasanya, tugas dengan status "IN PROGRESS" akan berada dalam daftar tugas yang sedang dikerjakan atau daftar tugas yang sedang dalam proses.
+
+4. Apa perbedaan antara "Deliver" dan "Finish"?
+Jawaban:
+"Deliver" mengacu pada tindakan mengirimkan atau memberikan hasil atau produk akhir kepada pihak lain yang menjadi penerima atau pemiliknya. Ini berhubungan dengan tahap mengirimkan atau menyerahkan hasil pekerjaan kepada pihak yang membutuhkannya, seperti pelanggan, pengguna, atau pemangku kepentingan. "Deliver" seringkali melibatkan pengiriman atau penyerahan hasil kerja atau proyek, baik dalam bentuk produk fisik, dokumen, perangkat lunak, atau layanan yang dihasilkan. 
+"Finish" mengacu pada penyelesaian atau penyelesaian tugas atau pekerjaan yang sedang dilakukan. Ini berhubungan dengan tahap terakhir dari suatu aktivitas di mana tugas atau pekerjaan dianggap selesai dan tidak ada lagi langkah yang harus dilakukan. "Finish" menunjukkan pencapaian titik akhir dalam suatu proses atau aktivitas tertentu dan menandakan bahwa tidak ada lagi tindakan yang perlu dilakukan.
+
+5. Apa yang dimaksud dengan "EPIC" pada Jira?
+Jawaban:
+EPIC adalah sebuah inisiatif atau fitur yang lebih besar yang biasanya terdiri dari beberapa cerita (user stories) yang saling terkait. EPIC digunakan untuk mengelompokkan dan mengorganisir cerita-cerita yang berhubungan dengan fitur atau fungsi tertentu yang lebih luas dan membutuhkan waktu lebih lama untuk diselesaikan.
+EPIC pada Jira membantu dalam mengatur dan mengelompokkan pekerjaan yang kompleks menjadi unit yang lebih terkelola dengan lebih baik. Ini memungkinkan tim untuk membagi pekerjaan menjadi bagian-bagian yang lebih kecil yang dapat dikerjakan secara terpisah oleh anggota tim yang berbeda. Dengan memperhatikan status dan kemajuan EPIC, tim dapat melacak dan mengelola pekerjaan secara efektif dalam skala yang lebih besar.
+
+6. Apa yang harus dilakukan saat menggunakan tools Jira, jika kita menemukan bugs pada fitur yang sudah dilakukan testing?
+Jawaban:
+Jika menemukan bug pada fitur yang sudah dilakukan pengujian dalam Jira, berikut adalah langkah-langkah yang harus dilakukan.
+1.	Membuat tiket (issue): Buat tiket (issue) baru dalam Jira untuk melaporkan bug yang ditemukan. Anda dapat memilih jenis tiket yang sesuai, seperti "Bug" atau "Defect". Isi informasi yang relevan dalam tiket, seperti deskripsi bug, langkah-langkah untuk mereproduksinya, dan informasi tambahan yang membantu dalam pemahaman dan penyelesaian bug tersebut.
+2.	Prioritaskan bug: Berikan prioritas pada tiket bug berdasarkan tingkat kepentingan dan dampaknya terhadap proyek atau produk. Prioritas ini akan membantu tim pengembangan dalam menentukan urutan penyelesaian bug.
+3.	Assign tiket kepada anggota tim yang tepat: Tentukan anggota tim yang bertanggung jawab untuk menangani bug tersebut. Anda dapat menugaskan tiket kepada anggota tim pengembangan atau tim QA yang akan menangani penyelesaian dan verifikasi bug.
+4.	Tindak lanjuti dan pemantauan: Ikuti dan pantau status tiket bug secara teratur. Berikan komentar tambahan jika ada informasi tambahan yang relevan atau jika diperlukan clarifikasi. Jika ada perubahan status atau perkembangan dalam penyelesaian bug, pastikan Anda tetap terinformasi dan terlibat dalam prosesnya.
+5.	Uji ulang setelah penyelesaian: Setelah bug diperbaiki oleh tim pengembangan, lakukan pengujian ulang (retesting) untuk memastikan bahwa bug telah diperbaiki dengan benar dan tidak ada efek samping yang muncul dari perbaikan tersebut. Jika bug terkait dengan fitur yang lebih kompleks, pastikan untuk menguji juga area terkait yang mungkin terpengaruh.
+6.	Verifikasi penyelesaian: Setelah berhasil melakukan pengujian ulang, verifikasi bahwa bug telah diperbaiki dengan benar dan fitur berfungsi seperti yang diharapkan. Anda dapat menandai tiket bug sebagai "Resolved" atau "Closed" jika bug telah berhasil diperbaiki dan diverifikasi.
+Selama proses ini, penting untuk berkomunikasi dengan tim pengembangan dan tim QA secara teratur untuk memastikan bug ditangani dengan tepat dan waktu respons yang sesuai diberikan. Menggunakan alat kolaborasi Jira memungkinkan kolaborasi yang efektif dan pemantauan yang lebih mudah terhadap penyelesaian bug dalam proyek.
+
+Link Tugas :
+Buatlah simulasi terjadinya bugs pada suatu feature (Story, Task, Subtask). Deskripsikan
+Feature dan Bugs (minimal 5 untuk bugs) dari simulasi yang dibuat pada Jira.
+
+https://drive.google.com/file/d/13fRZh6drtPsvTIg8SEti4yS2qauBWSXj/view?usp=sharing
+
