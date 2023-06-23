@@ -2,3 +2,7 @@
 2. Implementasikan minimal 2 resource API (ex: Project, Task, Comment, Labels).
 3. Setiap Resource minimal implement 4 method.
 4. Setiap Method implement positif dan negatif case.
+
+Link pengumpulan tugas :
+
+https://drive.google.com/file/d/1KBxWrZmaTsumTSzL4_zKLu6RRYRot17I/view?usp=drive_link
